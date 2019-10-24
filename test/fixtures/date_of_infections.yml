@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-10-24 13:43:35
+  disease: one
+  animal: one
+
+two:
+  date: 2019-10-24 13:43:35
+  disease: two
+  animal: two

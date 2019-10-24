@@ -1,0 +1,15 @@
+  <div class='nested-fields'>
+    <div class="field">
+      <%= f.label :name %>
+      <%= f.text_field :name %>
+    </div>
+    <div class="field">
+      <%= f.label :species %>
+      <%= f.text_field :species %>
+    </div>
+    <div class="field">
+      <%= f.label :age %>
+      <%= f.text_field :age %>
+    </div>
+    <%= link_to_remove_association "Remove Animal", f %>
+  </div>
